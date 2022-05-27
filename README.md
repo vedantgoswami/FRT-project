@@ -33,3 +33,5 @@ eduction website for Online Admission. It provides the user with a catalog of di
 to facilitate online admission to the student. We are using Azure Technologies with GitHub to complete this project.
 ## Primary Azure Technology 
 Static Web Apps
+![FRT](https://user-images.githubusercontent.com/56600948/170653964-19d33e65-1666-4007-bc40-0ff38af0b3fc.jpg)
+
