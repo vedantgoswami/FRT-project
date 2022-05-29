@@ -31,6 +31,10 @@ Core Idea of Project is to build an sample prototype Eduction Website for admiss
 The primary goal of sample prototype an admission site is to go online for easy admission process and provide the parents/Guardian details about courses and school curriculum. This project deals with developing an
 eduction website for Online Admission. It provides the user with a catalog of different courses available for Students. In order 
 to facilitate online admission to the student. We are using Azure Technologies with GitHub to complete this project.
+
+## Deployed Website Link
+https://green-meadow-09a370410.1.azurestaticapps.net
+
 ## Primary Azure Technology 
 Static Web Apps
 ![FRT](https://user-images.githubusercontent.com/56600948/170653964-19d33e65-1666-4007-bc40-0ff38af0b3fc.jpg)
